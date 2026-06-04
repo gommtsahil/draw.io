@@ -1,46 +1,1752 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="CBOM3psCTSgxObAulMTF">
-    <mxGraphModel dx="774" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1414" dy="1899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="80AQUixwO7E_rw9kptFS-6" edge="1" parent="1" source="80AQUixwO7E_rw9kptFS-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="80AQUixwO7E_rw9kptFS-5" value="">
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-498" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-499" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-501" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="80AQUixwO7E_rw9kptFS-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;div&gt;BKG Cancelled OR Loss &amp;amp; Claim&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="120" x="300" y="40" as="geometry" />
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-499" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fontStyle=1;labelBackgroundColor=none;" value="MOJO check with Intenal / respective LOB for penality and the eligible refund" vertex="1">
+          <mxGeometry height="60" width="164" x="464" y="-86" as="geometry" />
         </mxCell>
-        <mxCell id="80AQUixwO7E_rw9kptFS-10" edge="1" parent="1" source="80AQUixwO7E_rw9kptFS-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="80AQUixwO7E_rw9kptFS-9" value="">
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-500" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-501" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-559" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="80AQUixwO7E_rw9kptFS-15" edge="1" parent="1" source="80AQUixwO7E_rw9kptFS-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-501" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="MOJO calls Payment for refund initiation to cx" vertex="1">
+          <mxGeometry height="46" width="164" x="464" y="12" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-502" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Sucess from PG" vertex="1">
+          <mxGeometry height="28" width="120" x="876" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-503" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-504" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-507" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-504" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Failure from PG" vertex="1">
+          <mxGeometry height="25.24" width="120" x="876" y="215.89" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-505" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-507" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-509" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="500" y="240" as="targetPoint" />
+            <mxPoint x="1228" y="225.99999999999977" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="80AQUixwO7E_rw9kptFS-17" edge="1" parent="1" source="80AQUixwO7E_rw9kptFS-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="80AQUixwO7E_rw9kptFS-16" value="">
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-506" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-507" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-511" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1228" y="225.99999999999977" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-507" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Payment Updates MOJO&lt;br&gt;MOJO push data to finance for manual processing" vertex="1">
+          <mxGeometry height="68" width="188" x="1034" y="194.51" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-508" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-509" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-514" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="80AQUixwO7E_rw9kptFS-5" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="&lt;div&gt;Booking Made &amp;lt; 6 Months&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="300" y="210" as="geometry" />
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-509" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Credit Line (within paid amount)" vertex="1">
+          <mxGeometry height="28.75" width="181" x="1296" y="186" as="geometry" />
         </mxCell>
-        <mxCell id="80AQUixwO7E_rw9kptFS-12" edge="1" parent="1" source="80AQUixwO7E_rw9kptFS-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="80AQUixwO7E_rw9kptFS-11" value="">
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-510" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-511" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-544" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="80AQUixwO7E_rw9kptFS-9" parent="1" style="whiteSpace=wrap;html=1;" value="Pass Through PG" vertex="1">
-          <mxGeometry height="60" width="120" x="300" y="350" as="geometry" />
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-511" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Cheque line (over and above)&lt;br&gt;&lt;b&gt;[0.17%]&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="179" x="1296" y="226" as="geometry" />
         </mxCell>
-        <mxCell id="80AQUixwO7E_rw9kptFS-11" parent="1" style="whiteSpace=wrap;html=1;" value="Failed at PG" vertex="1">
-          <mxGeometry height="60" width="120" x="500" y="350" as="geometry" />
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-512" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-514" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-517" value="No">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="80AQUixwO7E_rw9kptFS-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="TRUE" vertex="1">
-          <mxGeometry height="30" width="60" x="360" y="290" as="geometry" />
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-513" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-514" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-526" value="Yes">
+          <mxGeometry relative="1" x="-0.9085" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="1573" y="294" />
+              <mxPoint x="1859" y="294" />
+              <mxPoint x="1859" y="526" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="80AQUixwO7E_rw9kptFS-16" parent="1" style="whiteSpace=wrap;html=1;" value="WTD" vertex="1">
-          <mxGeometry height="60" width="120" x="500" y="210" as="geometry" />
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-514" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Is booking older than 6 months?" vertex="1">
+          <mxGeometry height="88.62" width="87" x="1529" y="156.06" as="geometry" />
         </mxCell>
-        <mxCell id="7M_ZEKJWsq6ihPvTpiQz-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="False" vertex="1">
-          <mxGeometry height="30" width="60" x="420" y="210" as="geometry" />
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-515" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-517" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-518" value="Yes">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-516" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-517" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-520" value="No">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1720" y="104" />
+              <mxPoint x="2643" y="104" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-517" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Is the CC Avenue PG?" vertex="1">
+          <mxGeometry height="88.62" width="87" x="1676" y="156.07" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-518" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Is booking older than 3 months?" vertex="1">
+          <mxGeometry height="80" width="80" x="1818" y="160.38" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-519" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-520" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-523" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-520" parent="1" style="whiteSpace=wrap;html=1;rounded=1;align=left;labelBackgroundColor=none;" value="&lt;b&gt;Below processing happens manually -&amp;nbsp;&lt;br&gt;&lt;/b&gt;1. Batch Processing on email (TAT from PG - 3-5 Business Days)&lt;br&gt;2. Bulk Processing on PG Portals (TAT 30 Mins to 1 Hour)&lt;br&gt;3. Manual Processing of individual transaction on portal (TAT 10 Mins)" vertex="1">
+          <mxGeometry height="95.43" width="392" x="2447" y="152.57" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-521" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-523" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" value="Success">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2923.076923076923" y="102.00000000000023" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-522" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-523" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-526" value="Failure">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-523" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="PG Status" vertex="1">
+          <mxGeometry height="80" width="80" x="2881" y="160.28" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-524" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="PG updates bank to initiate refund&lt;div&gt;TAT:&lt;br&gt;1. Credit / Debit Card - Immediate&lt;br&gt;2. Netbanking - 5-7 Days&lt;br&gt;3. UPI - 24 Hours&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="91" width="240" x="2746" y="6" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-525" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-526" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-529" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-526" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Finance attempts WTD" vertex="1">
+          <mxGeometry height="49.72" width="120" x="2861.25" y="501.14" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-527" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-529" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-531" value="Success">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-528" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-529" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-537" value="Failure">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-529" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Is link triggered?" vertex="1">
+          <mxGeometry height="80" width="80" x="3015.25" y="486" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-530" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-531" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-533" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-531" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Mydesk Task gets craeted&lt;br&gt;We wait for customer to fill the details" vertex="1">
+          <mxGeometry height="60" width="172" x="2969.25" y="613.14" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-532" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-533" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-535" value="No">
+          <mxGeometry relative="1" x="0.0176" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-533" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Is customer able to fill the deails?" vertex="1">
+          <mxGeometry height="80" width="80" x="3015.25" y="707.14" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-534" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-535" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-619" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-535" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Customer contacts us for refund&amp;nbsp;" vertex="1">
+          <mxGeometry height="43.36" width="149" x="3149" y="725.46" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-536" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-537" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-540" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-537" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Data goes to IBM (refund team) for customer calling" vertex="1">
+          <mxGeometry height="57" width="122" x="3169" y="496" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-538" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-540" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-541" value="No">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-539" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-540" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-616" value="Yes">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-540" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Cx provided details?" vertex="1">
+          <mxGeometry height="80" width="80" x="3339" y="484.5000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-541" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Pendency" vertex="1">
+          <mxGeometry height="35" width="120" x="3481" y="508.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-542" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-544" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-547" value="Pass for refund &lt;b&gt;[0.04%]&lt;/b&gt;">
+          <mxGeometry relative="1" x="-0.1885" y="25" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="1620.5" y="347.86" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-543" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-544" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-552" value="Fail for Refund">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-544" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Finance validation?" vertex="1">
+          <mxGeometry height="80" width="80" x="1345.5" y="308" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-545" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-547" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-549" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1506" y="476" />
+              <mxPoint x="1419" y="476" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-546" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-547" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-551" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-547" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Request Type?" vertex="1">
+          <mxGeometry height="80" width="80" x="1487" y="379" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-548" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-549" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-555" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-549" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Refund to Wallet" vertex="1">
+          <mxGeometry height="39" width="120" x="1359" y="503.86" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-550" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2251" y="525" />
+              <mxPoint x="2251" y="527" />
+            </Array>
+            <mxPoint x="1640" y="524.8600000000001" as="sourcePoint" />
+            <mxPoint x="2861.25" y="526.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-551" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Refund to Customer" vertex="1">
+          <mxGeometry height="38" width="120" x="1520" y="504.86" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-552" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Mark as BY PASS RRN &lt;b&gt;[0.13%]&lt;/b&gt;" vertex="1">
+          <mxGeometry height="48" width="120" x="1193" y="411" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-553" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-555" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-556" value="Sucess">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-554" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-555" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-557" value="Failure">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-555" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Success / Failure?" vertex="1">
+          <mxGeometry height="80" width="80" x="1379" y="579" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-556" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Money gets transferred to Wallet" vertex="1">
+          <mxGeometry height="47" width="120" x="1359" y="706" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-557" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Check with Risk Team for wallet is blocked or not" vertex="1">
+          <mxGeometry height="53.5" width="151" x="1525" y="592.25" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-558" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-559" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-562" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-559" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Payments check for Pay Mode" vertex="1">
+          <mxGeometry height="44.37" width="164" x="464" y="102.63" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-560" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-562" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-566" value="No">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-561" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-562" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-569" value="Yes">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-562" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Is paymode - Debit Card / Credit Card / EMI ?" vertex="1">
+          <mxGeometry height="77" width="79" x="506" y="190.01" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-563" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-566" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-502">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-564" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-566" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-504">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-565" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-566" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-571">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-566" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Payment calls the same PG for refund initiaition" vertex="1">
+          <mxGeometry height="44" width="145" x="658" y="206.51" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-567" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-569" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-566" value="No">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-568" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-569" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-576" value="Yes (Older than 6 months)">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-569" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Payments check if the booking is older than 6 months or not?" vertex="1">
+          <mxGeometry height="60" width="144.5" x="473.75" y="315" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-570" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-571" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-573" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-571" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Pending State from PG&lt;br&gt;PG Retruns a max TAT to retry refund initiation" vertex="1">
+          <mxGeometry height="55.24" width="155" x="876" y="276" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-572" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-573" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-502" value="Success">
+          <mxGeometry relative="1" x="-0.5643" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="825" y="421" />
+              <mxPoint x="825" y="164" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-573" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Output of hit?" vertex="1">
+          <mxGeometry height="77" width="80" x="913.5" y="383" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-574" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-573" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.139;entryY=1.014;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-507" value="Failure">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-575" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-576" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-526">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="546" y="784" />
+              <mxPoint x="2921" y="784" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-576" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Payment updates MOJO to attempt WTD directly" vertex="1">
+          <mxGeometry height="52" width="145" x="473.75" y="427" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-577" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-578" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-580" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-578" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="MOJO hold the payment for 2 days and do some validations" vertex="1">
+          <mxGeometry height="49" width="160" x="2976" y="925" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-579" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-580" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" value="Pass">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3153.25" y="1051.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-580" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Validation status?" vertex="1">
+          <mxGeometry height="74" width="80" x="3015.75" y="1014.9999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-581" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" value="Validation Pass">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3106.75" y="1177.9999999999998" as="sourcePoint" />
+            <mxPoint x="3228.6000000000004" y="1075.4999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-582" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-583" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-591">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-583" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Sucess from PG" vertex="1">
+          <mxGeometry height="28" width="120" x="876" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-584" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Failure from PG" vertex="1">
+          <mxGeometry height="25.24" width="120" x="876" y="215.89" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-585" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Refund Amount within paid booking amount" vertex="1">
+          <mxGeometry height="39.75" width="181" x="1296" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-586" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-587" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-595" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-587" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Refund Amount more than paid booking amount&lt;br&gt;&lt;b&gt;[0.17%]&lt;/b&gt;" vertex="1">
+          <mxGeometry height="49" width="179" x="1296" y="226" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-588" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-590" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-606" value="No">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-589" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-590" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-526" value="Yes">
+          <mxGeometry relative="1" x="-0.9478" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-590" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Is booking older than 3 months?" vertex="1">
+          <mxGeometry height="80" width="80" x="1818" y="160.38" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-591" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="PG updates bank to initiate refund&lt;div&gt;TAT:&lt;br&gt;1. Credit / Debit Card - Immediate&lt;br&gt;2. Netbanking - 5-7 Days&lt;br&gt;3. UPI - 24 Hours&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="91" width="240" x="2746" y="6" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-592" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-594" value="Yes">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3055.3" y="787.0899999999997" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-593" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-594" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-578">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-594" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Details goes to MOJO directly for validation and processing" vertex="1">
+          <mxGeometry height="51" width="158" x="2976.75" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-595" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Finance validation?" vertex="1">
+          <mxGeometry height="80" width="80" x="1345.5" y="308" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-596" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Mark as BY PASS RRN &lt;b&gt;[0.13%]&lt;/b&gt;" vertex="1">
+          <mxGeometry height="48" width="120" x="1193" y="411" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-597" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-598" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-599" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-598" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Pending State from PG&lt;br&gt;PG Retruns a max TAT to retry refund initiation" vertex="1">
+          <mxGeometry height="55.24" width="155" x="876" y="276" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-599" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Output of hit?" vertex="1">
+          <mxGeometry height="77" width="80" x="913.5" y="383" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-600" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-603" value="Fail">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3055.8" y="1088.9537499999994" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-601" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="MOJO hit payment to initiate refund via INDUS PG" vertex="1">
+          <mxGeometry height="47" width="194" x="3157" y="1025.8599999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-602" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-603" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-604" value="Validation Failed">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-603" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Creates a task in finance grid for manual validation" vertex="1">
+          <mxGeometry height="84" width="105.5" x="3003" y="1125.9999999999998" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-604" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Finance rejects the request&lt;br&gt;&lt;br&gt;No forward flow and no update to customers" vertex="1">
+          <mxGeometry height="64" width="200" x="2800" y="1213" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-605" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-606" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-609" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-606" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Finance checks if the refund needs to be processed again via Payments? (A MMT payments portal where they upload the details)" vertex="1">
+          <mxGeometry height="72.44" width="222" x="1953" y="164.16" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-607" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-609" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-611" value="Yes">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-608" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-609" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-520" value="No">
+          <mxGeometry relative="1" x="-0.5912" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-609" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Is the PG eligible for API processing?" vertex="1">
+          <mxGeometry height="80" width="94" x="2216" y="160.38" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-610" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-611" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-614" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-611" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Finance uploads details on Payments Portal for refund processing" vertex="1">
+          <mxGeometry height="57" width="137" x="2194.5" y="281" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-612" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-614" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-591" value="Success">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2373" y="404" />
+              <mxPoint x="2373" y="52" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-613" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-614" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-520" value="Failure">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2263" y="451" />
+              <mxPoint x="2404" y="451" />
+              <mxPoint x="2404" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-614" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="PG Status" vertex="1">
+          <mxGeometry height="68" width="76" x="2225" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-615" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-616" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-617" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-616" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="IBM team updates the details in Offline Tracker" vertex="1">
+          <mxGeometry height="43" width="156" x="3301" y="606.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-617" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Finance checks and get the mydesk task closed so that customer don&#39;t fill the WTD details and then picks for refund processing directly to PG and updates on offline tracker" vertex="1">
+          <mxGeometry height="75.25" width="287" x="3500" y="590.37" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-618" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-619" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-616">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-619" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Agent takes the details offline from customer" vertex="1">
+          <mxGeometry height="47.36" width="141" x="3330" y="723.46" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-620" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-621" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-623" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-621" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fontStyle=1;labelBackgroundColor=none;" value="MOJO check with Intenal / respective LOB for penality and the eligible refund" vertex="1">
+          <mxGeometry height="60" width="164" x="464" y="-86" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-622" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-623" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-681" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-623" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="MOJO calls Payment for refund initiation to cx" vertex="1">
+          <mxGeometry height="46" width="164" x="464" y="12" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-624" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Sucess from PG" vertex="1">
+          <mxGeometry height="28" width="120" x="876" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-625" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-626" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-629" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-626" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Failure from PG" vertex="1">
+          <mxGeometry height="25.24" width="120" x="876" y="215.89" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-627" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-629" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-631" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1228" y="225.99999999999977" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-628" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-629" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-633" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1228" y="225.99999999999977" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-629" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Payment Updates MOJO&lt;br&gt;MOJO push data to finance for manual processing" vertex="1">
+          <mxGeometry height="68" width="188" x="1034" y="194.51" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-630" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-631" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-636" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-631" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Credit Line (within paid amount)" vertex="1">
+          <mxGeometry height="28.75" width="181" x="1296" y="186" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-632" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-633" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-666" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-633" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Cheque line (over and above)&lt;br&gt;&lt;b&gt;[0.17%]&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="179" x="1296" y="226" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-634" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-636" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-639" value="No">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-635" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-636" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-648" value="Yes">
+          <mxGeometry relative="1" x="-0.9085" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="1573" y="294" />
+              <mxPoint x="1859" y="294" />
+              <mxPoint x="1859" y="526" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-636" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Is booking older than 6 months?" vertex="1">
+          <mxGeometry height="88.62" width="87" x="1529" y="156.06" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-637" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-639" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-640" value="Yes">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-638" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-639" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-642" value="No">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1720" y="104" />
+              <mxPoint x="2643" y="104" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-639" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Is the CC Avenue PG?" vertex="1">
+          <mxGeometry height="88.62" width="87" x="1676" y="156.07" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-640" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Is booking older than 3 months?" vertex="1">
+          <mxGeometry height="80" width="80" x="1818" y="160.38" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-641" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-642" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-645" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-642" parent="1" style="whiteSpace=wrap;html=1;rounded=1;align=left;labelBackgroundColor=none;" value="&lt;b&gt;Below processing happens manually -&amp;nbsp;&lt;br&gt;&lt;/b&gt;1. Batch Processing on email (TAT from PG - 3-5 Business Days)&lt;br&gt;2. Bulk Processing on PG Portals (TAT 30 Mins to 1 Hour)&lt;br&gt;3. Manual Processing of individual transaction on portal (TAT 10 Mins)" vertex="1">
+          <mxGeometry height="95.43" width="392" x="2447" y="152.57" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-643" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-645" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" value="Success">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2923.076923076923" y="102.00000000000023" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-644" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-645" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-648" value="Failure">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-645" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="PG Status" vertex="1">
+          <mxGeometry height="80" width="80" x="2881" y="160.28" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-646" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="PG updates bank to initiate refund&lt;div&gt;TAT:&lt;br&gt;1. Credit / Debit Card - Immediate&lt;br&gt;2. Netbanking - 5-7 Days&lt;br&gt;3. UPI - 24 Hours&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="91" width="240" x="2746" y="6" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-647" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-648" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-651" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-648" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Finance attempts WTD" vertex="1">
+          <mxGeometry height="49.72" width="120" x="2861.25" y="501.14" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-649" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-651" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-653" value="Success">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-650" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-651" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-659" value="Failure">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-651" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Is link triggered?" vertex="1">
+          <mxGeometry height="80" width="80" x="3015.25" y="486" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-652" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-653" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-655" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-653" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Mydesk Task gets craeted&lt;br&gt;We wait for customer to fill the details" vertex="1">
+          <mxGeometry height="60" width="172" x="2969.25" y="613.14" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-654" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-655" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-657" value="No">
+          <mxGeometry relative="1" x="0.0176" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-655" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Is customer able to fill the deails?" vertex="1">
+          <mxGeometry height="80" width="80" x="3015.25" y="707.14" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-656" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-657" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-741" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-657" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Customer contacts us for refund&amp;nbsp;" vertex="1">
+          <mxGeometry height="43.36" width="149" x="3149" y="725.46" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-658" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-659" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-662" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-659" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Data goes to IBM (refund team) for customer calling" vertex="1">
+          <mxGeometry height="57" width="122" x="3169" y="496" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-660" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-662" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-663" value="No">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-661" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-662" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-738" value="Yes">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-662" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Cx provided details?" vertex="1">
+          <mxGeometry height="80" width="80" x="3339" y="484.5000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-663" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Pendency" vertex="1">
+          <mxGeometry height="35" width="120" x="3481" y="508.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-664" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-666" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-669" value="Pass for refund &lt;b&gt;[0.04%]&lt;/b&gt;">
+          <mxGeometry relative="1" x="-0.1885" y="25" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="1620.5" y="347.86" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-665" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-666" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-674" value="Fail for Refund">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-666" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Finance validation?" vertex="1">
+          <mxGeometry height="80" width="80" x="1345.5" y="308" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-667" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-669" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-671" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1506" y="476" />
+              <mxPoint x="1419" y="476" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-668" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-669" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-673" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-669" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Request Type?" vertex="1">
+          <mxGeometry height="80" width="80" x="1487" y="379" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-670" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-671" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-677" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-671" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Refund to Wallet" vertex="1">
+          <mxGeometry height="39" width="120" x="1359" y="503.86" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-672" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2251" y="525" />
+              <mxPoint x="2251" y="527" />
+            </Array>
+            <mxPoint x="1640" y="524.8600000000001" as="sourcePoint" />
+            <mxPoint x="2861.25" y="526.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-673" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Refund to Customer" vertex="1">
+          <mxGeometry height="38" width="120" x="1520" y="504.86" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-674" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Mark as BY PASS RRN &lt;b&gt;[0.13%]&lt;/b&gt;" vertex="1">
+          <mxGeometry height="48" width="120" x="1193" y="411" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-675" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-677" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-678" value="Sucess">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-676" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-677" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-679" value="Failure">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-677" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Success / Failure?" vertex="1">
+          <mxGeometry height="80" width="80" x="1379" y="579" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-678" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Money gets transferred to Wallet" vertex="1">
+          <mxGeometry height="47" width="120" x="1359" y="706" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-679" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Check with Risk Team for wallet is blocked or not" vertex="1">
+          <mxGeometry height="53.5" width="151" x="1525" y="592.25" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-680" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-681" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-684" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-681" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Payments check for Pay Mode" vertex="1">
+          <mxGeometry height="44.37" width="164" x="464" y="102.63" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-682" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-684" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-688" value="No">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-683" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-684" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-691" value="Yes">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-684" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Is paymode - Debit Card / Credit Card / EMI ?" vertex="1">
+          <mxGeometry height="77" width="79" x="506" y="190.01" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-685" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-688" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-624">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-686" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-688" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-626">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-687" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-688" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-693">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-688" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Payment calls the same PG for refund initiaition" vertex="1">
+          <mxGeometry height="44" width="145" x="658" y="206.51" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-689" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-691" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-688" value="No">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-690" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-691" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-698" value="Yes (Older than 6 months)">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-691" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Payments check if the booking is older than 6 months or not?" vertex="1">
+          <mxGeometry height="60" width="144.5" x="473.75" y="315" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-692" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-693" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-695" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-693" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Pending State from PG&lt;br&gt;PG Retruns a max TAT to retry refund initiation" vertex="1">
+          <mxGeometry height="55.24" width="155" x="876" y="276" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-694" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-695" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-624" value="Success">
+          <mxGeometry relative="1" x="-0.5643" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="825" y="421" />
+              <mxPoint x="825" y="164" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-695" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Output of hit?" vertex="1">
+          <mxGeometry height="77" width="80" x="913.5" y="383" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-696" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-695" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.139;entryY=1.014;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-629" value="Failure">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-697" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-698" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-648">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="546" y="784" />
+              <mxPoint x="2921" y="784" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-698" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Payment updates MOJO to attempt WTD directly" vertex="1">
+          <mxGeometry height="52" width="145" x="473.75" y="427" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-699" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-700" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-702" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-700" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="MOJO hold the payment for 2 days and do some validations" vertex="1">
+          <mxGeometry height="49" width="160" x="2976" y="925" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-701" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-702" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" value="Pass">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3153.25" y="1051.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-702" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Validation status?" vertex="1">
+          <mxGeometry height="74" width="80" x="3015.75" y="1014.9999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-703" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" value="Validation Pass">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3106.75" y="1177.9999999999998" as="sourcePoint" />
+            <mxPoint x="3228.6000000000004" y="1075.4999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-704" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-705" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-713">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-705" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Sucess from PG" vertex="1">
+          <mxGeometry height="28" width="120" x="876" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-706" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Failure from PG" vertex="1">
+          <mxGeometry height="25.24" width="120" x="876" y="215.89" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-707" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Refund Amount within paid booking amount" vertex="1">
+          <mxGeometry height="39.75" width="181" x="1296" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-708" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-709" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-717" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-709" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Refund Amount more than paid booking amount&lt;br&gt;&lt;b&gt;[0.17%]&lt;/b&gt;" vertex="1">
+          <mxGeometry height="49" width="179" x="1296" y="226" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-710" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-712" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-728" value="No">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-711" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-712" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-648" value="Yes">
+          <mxGeometry relative="1" x="-0.9478" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-712" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Is booking older than 3 months?" vertex="1">
+          <mxGeometry height="80" width="80" x="1818" y="160.38" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-713" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="PG updates bank to initiate refund&lt;div&gt;TAT:&lt;br&gt;1. Credit / Debit Card - Immediate&lt;br&gt;2. Netbanking - 5-7 Days&lt;br&gt;3. UPI - 24 Hours&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="91" width="240" x="2746" y="6" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-714" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-716" value="Yes">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3055.3" y="787.0899999999997" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-715" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-716" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-700">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-716" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Details goes to MOJO directly for validation and processing" vertex="1">
+          <mxGeometry height="51" width="158" x="2976.75" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-717" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Finance validation?" vertex="1">
+          <mxGeometry height="80" width="80" x="1345.5" y="308" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-718" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Mark as BY PASS RRN &lt;b&gt;[0.13%]&lt;/b&gt;" vertex="1">
+          <mxGeometry height="48" width="120" x="1193" y="411" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-719" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-720" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-721" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-720" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Pending State from PG&lt;br&gt;PG Retruns a max TAT to retry refund initiation" vertex="1">
+          <mxGeometry height="55.24" width="155" x="876" y="276" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-721" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Output of hit?" vertex="1">
+          <mxGeometry height="77" width="80" x="913.5" y="383" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-722" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-725" value="Fail">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3055.8" y="1088.9537499999994" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-723" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="MOJO hit payment to initiate refund via INDUS PG" vertex="1">
+          <mxGeometry height="47" width="194" x="3157" y="1025.8599999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-724" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-725" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-726" value="Validation Failed">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-725" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Creates a task in finance grid for manual validation" vertex="1">
+          <mxGeometry height="84" width="105.5" x="3003" y="1125.9999999999998" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-726" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Finance rejects the request&lt;br&gt;&lt;br&gt;No forward flow and no update to customers" vertex="1">
+          <mxGeometry height="64" width="200" x="2800" y="1213" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-727" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-728" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-731" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-728" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Finance checks if the refund needs to be processed again via Payments? (A MMT payments portal where they upload the details)" vertex="1">
+          <mxGeometry height="72.44" width="222" x="1953" y="164.16" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-729" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-731" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-733" value="Yes">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-730" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-731" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-642" value="No">
+          <mxGeometry relative="1" x="-0.5912" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-731" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Is the PG eligible for API processing?" vertex="1">
+          <mxGeometry height="80" width="94" x="2216" y="160.38" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-732" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-733" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-736" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-733" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Finance uploads details on Payments Portal for refund processing" vertex="1">
+          <mxGeometry height="57" width="137" x="2194.5" y="281" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-734" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-736" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-713" value="Success">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2373" y="404" />
+              <mxPoint x="2373" y="52" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-735" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-736" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-642" value="Failure">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2263" y="451" />
+              <mxPoint x="2404" y="451" />
+              <mxPoint x="2404" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-736" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="PG Status" vertex="1">
+          <mxGeometry height="68" width="76" x="2225" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-737" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-738" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-739" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-738" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="IBM team updates the details in Offline Tracker" vertex="1">
+          <mxGeometry height="43" width="156" x="3301" y="606.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-739" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Finance checks and get the mydesk task closed so that customer don&#39;t fill the WTD details and then picks for refund processing directly to PG and updates on offline tracker" vertex="1">
+          <mxGeometry height="75.25" width="287" x="3500" y="590.37" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-740" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-741" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-738">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-741" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Agent takes the details offline from customer" vertex="1">
+          <mxGeometry height="47.36" width="141" x="3330" y="723.46" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-742" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-743" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-745" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-743" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fontStyle=1;labelBackgroundColor=none;" value="MOJO check with Intenal / respective LOB for penality and the eligible refund" vertex="1">
+          <mxGeometry height="60" width="164" x="500" y="1320" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-744" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-745" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-803" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-745" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="MOJO calls Payment for refund initiation to cx" vertex="1">
+          <mxGeometry height="46" width="164" x="500" y="1418" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-746" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Sucess from PG" vertex="1">
+          <mxGeometry height="28" width="120" x="912" y="1556" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-747" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-748" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-751" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-748" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Failure from PG" vertex="1">
+          <mxGeometry height="25.24" width="120" x="912" y="1621.8899999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-749" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-751" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-753" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1264" y="1631.9999999999998" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-750" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-751" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-755" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1264" y="1631.9999999999998" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-751" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Payment Updates MOJO&lt;br&gt;MOJO push data to finance for manual processing" vertex="1">
+          <mxGeometry height="68" width="188" x="1070" y="1600.51" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-752" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-753" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-758" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-753" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Credit Line (within paid amount)" vertex="1">
+          <mxGeometry height="28.75" width="181" x="1332" y="1592" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-754" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-755" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-788" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-755" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Cheque line (over and above)&lt;br&gt;&lt;b&gt;[0.17%]&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="179" x="1332" y="1632" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-756" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-758" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-761" value="No">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-757" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-758" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-770" value="Yes">
+          <mxGeometry relative="1" x="-0.9085" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="1609" y="1700" />
+              <mxPoint x="1895" y="1700" />
+              <mxPoint x="1895" y="1932" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-758" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Is booking older than 6 months?" vertex="1">
+          <mxGeometry height="88.62" width="87" x="1565" y="1562.06" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-759" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-761" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-762" value="Yes">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-760" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-761" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-764" value="No">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1756" y="1510" />
+              <mxPoint x="2679" y="1510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-761" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Is the CC Avenue PG?" vertex="1">
+          <mxGeometry height="88.62" width="87" x="1712" y="1562.07" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-762" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Is booking older than 3 months?" vertex="1">
+          <mxGeometry height="80" width="80" x="1854" y="1566.38" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-763" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-764" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-767" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-764" parent="1" style="whiteSpace=wrap;html=1;rounded=1;align=left;labelBackgroundColor=none;" value="&lt;b&gt;Below processing happens manually -&amp;nbsp;&lt;br&gt;&lt;/b&gt;1. Batch Processing on email (TAT from PG - 3-5 Business Days)&lt;br&gt;2. Bulk Processing on PG Portals (TAT 30 Mins to 1 Hour)&lt;br&gt;3. Manual Processing of individual transaction on portal (TAT 10 Mins)" vertex="1">
+          <mxGeometry height="95.43" width="392" x="2483" y="1558.57" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-765" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-767" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" value="Success">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2959.076923076923" y="1508.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-766" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-767" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-770" value="Failure">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-767" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="PG Status" vertex="1">
+          <mxGeometry height="80" width="80" x="2917" y="1566.28" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-768" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="PG updates bank to initiate refund&lt;div&gt;TAT:&lt;br&gt;1. Credit / Debit Card - Immediate&lt;br&gt;2. Netbanking - 5-7 Days&lt;br&gt;3. UPI - 24 Hours&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="91" width="240" x="2782" y="1412" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-769" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-770" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-773" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-770" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Finance attempts WTD" vertex="1">
+          <mxGeometry height="49.72" width="120" x="2897.25" y="1907.1399999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-771" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-773" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-775" value="Success">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-772" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-773" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-781" value="Failure">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-773" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Is link triggered?" vertex="1">
+          <mxGeometry height="80" width="80" x="3051.25" y="1892" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-774" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-775" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-777" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-775" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Mydesk Task gets craeted&lt;br&gt;We wait for customer to fill the details" vertex="1">
+          <mxGeometry height="60" width="172" x="3005.25" y="2019.1399999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-776" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-777" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-779" value="No">
+          <mxGeometry relative="1" x="0.0176" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-777" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Is customer able to fill the deails?" vertex="1">
+          <mxGeometry height="80" width="80" x="3051.25" y="2113.14" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-778" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-779" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-863" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-779" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Customer contacts us for refund&amp;nbsp;" vertex="1">
+          <mxGeometry height="43.36" width="149" x="3185" y="2131.46" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-780" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-781" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-784" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-781" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Data goes to IBM (refund team) for customer calling" vertex="1">
+          <mxGeometry height="57" width="122" x="3205" y="1902" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-782" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-784" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-785" value="No">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-783" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-784" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-860" value="Yes">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-784" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Cx provided details?" vertex="1">
+          <mxGeometry height="80" width="80" x="3375" y="1890.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-785" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Pendency" vertex="1">
+          <mxGeometry height="35" width="120" x="3517" y="1914.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-786" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-788" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-791" value="Pass for refund &lt;b&gt;[0.04%]&lt;/b&gt;">
+          <mxGeometry relative="1" x="-0.1885" y="25" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="1656.5" y="1753.8600000000001" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-787" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-788" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-796" value="Fail for Refund">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-788" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Finance validation?" vertex="1">
+          <mxGeometry height="80" width="80" x="1381.5" y="1714" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-789" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-791" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-793" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1542" y="1882" />
+              <mxPoint x="1455" y="1882" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-790" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-791" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-795" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-791" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Request Type?" vertex="1">
+          <mxGeometry height="80" width="80" x="1523" y="1785" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-792" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-793" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-799" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-793" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Refund to Wallet" vertex="1">
+          <mxGeometry height="39" width="120" x="1395" y="1909.8600000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-794" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2287" y="1931" />
+              <mxPoint x="2287" y="1933" />
+            </Array>
+            <mxPoint x="1676" y="1930.8600000000001" as="sourcePoint" />
+            <mxPoint x="2897.25" y="1932.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-795" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Refund to Customer" vertex="1">
+          <mxGeometry height="38" width="120" x="1556" y="1910.8600000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-796" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Mark as BY PASS RRN &lt;b&gt;[0.13%]&lt;/b&gt;" vertex="1">
+          <mxGeometry height="48" width="120" x="1229" y="1817" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-797" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-799" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-800" value="Sucess">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-798" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-799" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-801" value="Failure">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-799" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Success / Failure?" vertex="1">
+          <mxGeometry height="80" width="80" x="1415" y="1985" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-800" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Money gets transferred to Wallet" vertex="1">
+          <mxGeometry height="47" width="120" x="1395" y="2112" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-801" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Check with Risk Team for wallet is blocked or not" vertex="1">
+          <mxGeometry height="53.5" width="151" x="1561" y="1998.25" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-802" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-803" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-806" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-803" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Payments check for Pay Mode" vertex="1">
+          <mxGeometry height="44.37" width="164" x="500" y="1508.63" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-804" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-806" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-810" value="No">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-805" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-806" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-813" value="Yes">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-806" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Is paymode - Debit Card / Credit Card / EMI ?" vertex="1">
+          <mxGeometry height="77" width="79" x="542" y="1596.01" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-807" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-810" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-746">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-808" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-810" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-748">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-809" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-810" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-815">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-810" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Payment calls the same PG for refund initiaition" vertex="1">
+          <mxGeometry height="44" width="145" x="694" y="1612.51" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-811" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-813" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-810" value="No">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-812" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-813" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-820" value="Yes (Older than 6 months)">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-813" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Payments check if the booking is older than 6 months or not?" vertex="1">
+          <mxGeometry height="60" width="144.5" x="509.75" y="1721" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-814" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-815" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-817" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-815" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Pending State from PG&lt;br&gt;PG Retruns a max TAT to retry refund initiation" vertex="1">
+          <mxGeometry height="55.24" width="155" x="912" y="1682" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-816" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-817" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-746" value="Success">
+          <mxGeometry relative="1" x="-0.5643" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="861" y="1827" />
+              <mxPoint x="861" y="1570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-817" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Output of hit?" vertex="1">
+          <mxGeometry height="77" width="80" x="949.5" y="1789" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-818" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-817" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.139;entryY=1.014;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-751" value="Failure">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-819" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-820" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-770">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="582" y="2190" />
+              <mxPoint x="2957" y="2190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-820" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Payment updates MOJO to attempt WTD directly" vertex="1">
+          <mxGeometry height="52" width="145" x="509.75" y="1833" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-821" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-822" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-824" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-822" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="MOJO hold the payment for 2 days and do some validations" vertex="1">
+          <mxGeometry height="49" width="160" x="3012" y="2331" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-823" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-824" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" value="Pass">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3189.25" y="2458" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-824" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Validation status?" vertex="1">
+          <mxGeometry height="74" width="80" x="3051.75" y="2421" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-825" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" value="Validation Pass">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3142.75" y="2584" as="sourcePoint" />
+            <mxPoint x="3264.6000000000004" y="2481.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-826" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-827" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-835">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-827" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Sucess from PG" vertex="1">
+          <mxGeometry height="28" width="120" x="912" y="1556" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-828" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Failure from PG" vertex="1">
+          <mxGeometry height="25.24" width="120" x="912" y="1621.8899999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-829" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Refund Amount within paid booking amount" vertex="1">
+          <mxGeometry height="39.75" width="181" x="1332" y="1581" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-830" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-831" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-839" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-831" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Refund Amount more than paid booking amount&lt;br&gt;&lt;b&gt;[0.17%]&lt;/b&gt;" vertex="1">
+          <mxGeometry height="49" width="179" x="1332" y="1632" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-832" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-834" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-850" value="No">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-833" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-834" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-770" value="Yes">
+          <mxGeometry relative="1" x="-0.9478" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-834" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Is booking older than 3 months?" vertex="1">
+          <mxGeometry height="80" width="80" x="1854" y="1566.38" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-835" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="PG updates bank to initiate refund&lt;div&gt;TAT:&lt;br&gt;1. Credit / Debit Card - Immediate&lt;br&gt;2. Netbanking - 5-7 Days&lt;br&gt;3. UPI - 24 Hours&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="91" width="240" x="2782" y="1412" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-836" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-838" value="Yes">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3091.3" y="2193.0899999999997" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-837" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-838" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-822">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-838" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Details goes to MOJO directly for validation and processing" vertex="1">
+          <mxGeometry height="51" width="158" x="3012.75" y="2246" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-839" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Finance validation?" vertex="1">
+          <mxGeometry height="80" width="80" x="1381.5" y="1714" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-840" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Mark as BY PASS RRN &lt;b&gt;[0.13%]&lt;/b&gt;" vertex="1">
+          <mxGeometry height="48" width="120" x="1229" y="1817" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-841" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-842" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-843" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-842" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Pending State from PG&lt;br&gt;PG Retruns a max TAT to retry refund initiation" vertex="1">
+          <mxGeometry height="55.24" width="155" x="912" y="1682" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-843" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Output of hit?" vertex="1">
+          <mxGeometry height="77" width="80" x="949.5" y="1789" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-844" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-847" value="Fail">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3091.8" y="2494.9537499999997" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-845" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="MOJO hit payment to initiate refund via INDUS PG" vertex="1">
+          <mxGeometry height="47" width="194" x="3193" y="2431.8599999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-846" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-847" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-848" value="Validation Failed">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-847" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Creates a task in finance grid for manual validation" vertex="1">
+          <mxGeometry height="84" width="105.5" x="3039" y="2532" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-848" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Finance rejects the request&lt;br&gt;&lt;br&gt;No forward flow and no update to customers" vertex="1">
+          <mxGeometry height="64" width="200" x="2836" y="2619" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-849" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-850" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-853" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-850" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Finance checks if the refund needs to be processed again via Payments? (A MMT payments portal where they upload the details)" vertex="1">
+          <mxGeometry height="72.44" width="222" x="1989" y="1570.16" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-851" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-853" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-855" value="Yes">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-852" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-853" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-764" value="No">
+          <mxGeometry relative="1" x="-0.5912" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-853" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Is the PG eligible for API processing?" vertex="1">
+          <mxGeometry height="80" width="94" x="2252" y="1566.38" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-854" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-855" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-858" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-855" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Finance uploads details on Payments Portal for refund processing" vertex="1">
+          <mxGeometry height="57" width="137" x="2230.5" y="1687" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-856" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-858" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-835" value="Success">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2409" y="1810" />
+              <mxPoint x="2409" y="1458" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-857" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-858" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-764" value="Failure">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2299" y="1857" />
+              <mxPoint x="2440" y="1857" />
+              <mxPoint x="2440" y="1606" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-858" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="PG Status" vertex="1">
+          <mxGeometry height="68" width="76" x="2261" y="1776" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-859" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-860" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-861" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-860" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="IBM team updates the details in Offline Tracker" vertex="1">
+          <mxGeometry height="43" width="156" x="3337" y="2012.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-861" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Finance checks and get the mydesk task closed so that customer don&#39;t fill the WTD details and then picks for refund processing directly to PG and updates on offline tracker" vertex="1">
+          <mxGeometry height="75.25" width="287" x="3536" y="1996.37" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-862" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-863" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-860">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-863" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Agent takes the details offline from customer" vertex="1">
+          <mxGeometry height="47.36" width="141" x="3366" y="2129.46" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-864" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-865" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-867" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-865" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fontStyle=1;labelBackgroundColor=none;" value="MOJO check with Intenal / respective LOB for penality and the eligible refund" vertex="1">
+          <mxGeometry height="60" width="164" x="500" y="2720" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-866" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-867" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-925" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-867" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="MOJO calls Payment for refund initiation to cx" vertex="1">
+          <mxGeometry height="46" width="164" x="500" y="2818" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-868" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Sucess from PG" vertex="1">
+          <mxGeometry height="28" width="120" x="912" y="2956" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-869" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-870" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-873" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-870" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Failure from PG" vertex="1">
+          <mxGeometry height="25.24" width="120" x="912" y="3021.89" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-871" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-873" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-875" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1264" y="3032" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-872" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-873" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-877" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1264" y="3032" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-873" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Payment Updates MOJO&lt;br&gt;MOJO push data to finance for manual processing" vertex="1">
+          <mxGeometry height="68" width="188" x="1070" y="3000.51" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-874" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-875" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-880" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-875" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Credit Line (within paid amount)" vertex="1">
+          <mxGeometry height="28.75" width="181" x="1332" y="2992" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-876" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-877" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-910" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-877" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Cheque line (over and above)&lt;br&gt;&lt;b&gt;[0.17%]&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="179" x="1332" y="3032" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-878" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-880" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-883" value="No">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-879" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-880" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-892" value="Yes">
+          <mxGeometry relative="1" x="-0.9085" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="1609" y="3100" />
+              <mxPoint x="1895" y="3100" />
+              <mxPoint x="1895" y="3332" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-880" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Is booking older than 6 months?" vertex="1">
+          <mxGeometry height="88.62" width="87" x="1565" y="2962.06" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-881" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-883" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-884" value="Yes">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-882" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-883" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-886" value="No">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1756" y="2910" />
+              <mxPoint x="2679" y="2910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-883" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Is the CC Avenue PG?" vertex="1">
+          <mxGeometry height="88.62" width="87" x="1712" y="2962.07" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-884" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Is booking older than 3 months?" vertex="1">
+          <mxGeometry height="80" width="80" x="1854" y="2966.38" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-885" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-886" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-889" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-886" parent="1" style="whiteSpace=wrap;html=1;rounded=1;align=left;labelBackgroundColor=none;" value="&lt;b&gt;Below processing happens manually -&amp;nbsp;&lt;br&gt;&lt;/b&gt;1. Batch Processing on email (TAT from PG - 3-5 Business Days)&lt;br&gt;2. Bulk Processing on PG Portals (TAT 30 Mins to 1 Hour)&lt;br&gt;3. Manual Processing of individual transaction on portal (TAT 10 Mins)" vertex="1">
+          <mxGeometry height="95.43" width="392" x="2483" y="2958.57" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-887" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-889" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" value="Success">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2959.076923076923" y="2908" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-888" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-889" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-892" value="Failure">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-889" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="PG Status" vertex="1">
+          <mxGeometry height="80" width="80" x="2917" y="2966.28" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-890" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="PG updates bank to initiate refund&lt;div&gt;TAT:&lt;br&gt;1. Credit / Debit Card - Immediate&lt;br&gt;2. Netbanking - 5-7 Days&lt;br&gt;3. UPI - 24 Hours&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="91" width="240" x="2782" y="2812" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-891" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-892" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-895" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-892" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Finance attempts WTD" vertex="1">
+          <mxGeometry height="49.72" width="120" x="2897.25" y="3307.14" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-893" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-895" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-897" value="Success">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-894" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-895" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-903" value="Failure">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-895" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Is link triggered?" vertex="1">
+          <mxGeometry height="80" width="80" x="3051.25" y="3292" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-896" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-897" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-899" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-897" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Mydesk Task gets craeted&lt;br&gt;We wait for customer to fill the details" vertex="1">
+          <mxGeometry height="60" width="172" x="3005.25" y="3419.14" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-898" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-899" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-901" value="No">
+          <mxGeometry relative="1" x="0.0176" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-899" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Is customer able to fill the deails?" vertex="1">
+          <mxGeometry height="80" width="80" x="3051.25" y="3513.14" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-900" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-901" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-985" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-901" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Customer contacts us for refund&amp;nbsp;" vertex="1">
+          <mxGeometry height="43.36" width="149" x="3185" y="3531.46" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-902" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-903" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-906" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-903" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Data goes to IBM (refund team) for customer calling" vertex="1">
+          <mxGeometry height="57" width="122" x="3205" y="3302" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-904" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-906" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-907" value="No">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-905" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-906" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-982" value="Yes">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-906" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Cx provided details?" vertex="1">
+          <mxGeometry height="80" width="80" x="3375" y="3290.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-907" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Pendency" vertex="1">
+          <mxGeometry height="35" width="120" x="3517" y="3314.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-908" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-910" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-913" value="Pass for refund &lt;b&gt;[0.04%]&lt;/b&gt;">
+          <mxGeometry relative="1" x="-0.1885" y="25" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="1656.5" y="3153.86" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-909" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-910" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-918" value="Fail for Refund">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-910" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Finance validation?" vertex="1">
+          <mxGeometry height="80" width="80" x="1381.5" y="3114" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-911" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-913" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-915" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1542" y="3282" />
+              <mxPoint x="1455" y="3282" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-912" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-913" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-917" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-913" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Request Type?" vertex="1">
+          <mxGeometry height="80" width="80" x="1523" y="3185" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-914" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-915" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-921" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-915" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Refund to Wallet" vertex="1">
+          <mxGeometry height="39" width="120" x="1395" y="3309.86" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-916" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2287" y="3331" />
+              <mxPoint x="2287" y="3333" />
+            </Array>
+            <mxPoint x="1676" y="3330.86" as="sourcePoint" />
+            <mxPoint x="2897.25" y="3333" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-917" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Refund to Customer" vertex="1">
+          <mxGeometry height="38" width="120" x="1556" y="3310.86" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-918" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Mark as BY PASS RRN &lt;b&gt;[0.13%]&lt;/b&gt;" vertex="1">
+          <mxGeometry height="48" width="120" x="1229" y="3217" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-919" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-921" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-922" value="Sucess">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-920" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-921" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-923" value="Failure">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-921" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Success / Failure?" vertex="1">
+          <mxGeometry height="80" width="80" x="1415" y="3385" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-922" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Money gets transferred to Wallet" vertex="1">
+          <mxGeometry height="47" width="120" x="1395" y="3512" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-923" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Check with Risk Team for wallet is blocked or not" vertex="1">
+          <mxGeometry height="53.5" width="151" x="1561" y="3398.25" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-924" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-925" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-928" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-925" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Payments check for Pay Mode" vertex="1">
+          <mxGeometry height="44.37" width="164" x="500" y="2908.63" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-926" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-928" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-932" value="No">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-927" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-928" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-935" value="Yes">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-928" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Is paymode - Debit Card / Credit Card / EMI ?" vertex="1">
+          <mxGeometry height="77" width="79" x="542" y="2996.01" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-929" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-932" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-868">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-930" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-932" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-870">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-931" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-932" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-937">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-932" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Payment calls the same PG for refund initiaition" vertex="1">
+          <mxGeometry height="44" width="145" x="694" y="3012.51" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-933" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-935" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-932" value="No">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-934" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-935" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-942" value="Yes (Older than 6 months)">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-935" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Payments check if the booking is older than 6 months or not?" vertex="1">
+          <mxGeometry height="60" width="144.5" x="509.75" y="3121" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-936" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-937" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-939" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-937" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Pending State from PG&lt;br&gt;PG Retruns a max TAT to retry refund initiation" vertex="1">
+          <mxGeometry height="55.24" width="155" x="912" y="3082" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-938" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-939" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-868" value="Success">
+          <mxGeometry relative="1" x="-0.5643" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="861" y="3227" />
+              <mxPoint x="861" y="2970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-939" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Output of hit?" vertex="1">
+          <mxGeometry height="77" width="80" x="949.5" y="3189" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-940" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-939" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.139;entryY=1.014;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-873" value="Failure">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-941" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-942" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-892">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="582" y="3590" />
+              <mxPoint x="2957" y="3590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-942" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Payment updates MOJO to attempt WTD directly" vertex="1">
+          <mxGeometry height="52" width="145" x="509.75" y="3233" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-943" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-944" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-946" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-944" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="MOJO hold the payment for 2 days and do some validations" vertex="1">
+          <mxGeometry height="49" width="160" x="3012" y="3731" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-945" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-946" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" value="Pass">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3189.25" y="3858" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-946" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Validation status?" vertex="1">
+          <mxGeometry height="74" width="80" x="3051.75" y="3821" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-947" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" value="Validation Pass">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3142.75" y="3984" as="sourcePoint" />
+            <mxPoint x="3264.6000000000004" y="3881.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-948" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-949" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-957">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-949" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Sucess from PG" vertex="1">
+          <mxGeometry height="28" width="120" x="912" y="2956" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-950" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Failure from PG" vertex="1">
+          <mxGeometry height="25.24" width="120" x="912" y="3021.89" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-951" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Refund Amount within paid booking amount" vertex="1">
+          <mxGeometry height="39.75" width="181" x="1332" y="2981" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-952" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-953" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-961" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-953" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Refund Amount more than paid booking amount&lt;br&gt;&lt;b&gt;[0.17%]&lt;/b&gt;" vertex="1">
+          <mxGeometry height="49" width="179" x="1332" y="3032" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-954" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-956" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-972" value="No">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-955" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-956" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-892" value="Yes">
+          <mxGeometry relative="1" x="-0.9478" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-956" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Is booking older than 3 months?" vertex="1">
+          <mxGeometry height="80" width="80" x="1854" y="2966.38" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-957" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="PG updates bank to initiate refund&lt;div&gt;TAT:&lt;br&gt;1. Credit / Debit Card - Immediate&lt;br&gt;2. Netbanking - 5-7 Days&lt;br&gt;3. UPI - 24 Hours&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="91" width="240" x="2782" y="2812" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-958" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-960" value="Yes">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3091.3" y="3593.0899999999997" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-959" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-960" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-944">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-960" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Details goes to MOJO directly for validation and processing" vertex="1">
+          <mxGeometry height="51" width="158" x="3012.75" y="3646" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-961" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Finance validation?" vertex="1">
+          <mxGeometry height="80" width="80" x="1381.5" y="3114" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-962" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Mark as BY PASS RRN &lt;b&gt;[0.13%]&lt;/b&gt;" vertex="1">
+          <mxGeometry height="48" width="120" x="1229" y="3217" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-963" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-964" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-965" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-964" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Pending State from PG&lt;br&gt;PG Retruns a max TAT to retry refund initiation" vertex="1">
+          <mxGeometry height="55.24" width="155" x="912" y="3082" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-965" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Output of hit?" vertex="1">
+          <mxGeometry height="77" width="80" x="949.5" y="3189" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-966" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-969" value="Fail">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3091.8" y="3894.9537499999997" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-967" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="MOJO hit payment to initiate refund via INDUS PG" vertex="1">
+          <mxGeometry height="47" width="194" x="3193" y="3831.8599999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-968" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-969" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-970" value="Validation Failed">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-969" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Creates a task in finance grid for manual validation" vertex="1">
+          <mxGeometry height="84" width="105.5" x="3039" y="3932" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-970" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Finance rejects the request&lt;br&gt;&lt;br&gt;No forward flow and no update to customers" vertex="1">
+          <mxGeometry height="64" width="200" x="2836" y="4019" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-971" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-972" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-975" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-972" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Finance checks if the refund needs to be processed again via Payments? (A MMT payments portal where they upload the details)" vertex="1">
+          <mxGeometry height="72.44" width="222" x="1989" y="2970.16" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-973" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-975" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-977" value="Yes">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-974" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-975" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-886" value="No">
+          <mxGeometry relative="1" x="-0.5912" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-975" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Is the PG eligible for API processing?" vertex="1">
+          <mxGeometry height="80" width="94" x="2252" y="2966.38" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-976" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-977" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-980" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-977" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Finance uploads details on Payments Portal for refund processing" vertex="1">
+          <mxGeometry height="57" width="137" x="2230.5" y="3087" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-978" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-980" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-957" value="Success">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2409" y="3210" />
+              <mxPoint x="2409" y="2858" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-979" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-980" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-886" value="Failure">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2299" y="3257" />
+              <mxPoint x="2440" y="3257" />
+              <mxPoint x="2440" y="3006" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-980" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="PG Status" vertex="1">
+          <mxGeometry height="68" width="76" x="2261" y="3176" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-981" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-982" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-983" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-982" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="IBM team updates the details in Offline Tracker" vertex="1">
+          <mxGeometry height="43" width="156" x="3337" y="3412.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-983" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Finance checks and get the mydesk task closed so that customer don&#39;t fill the WTD details and then picks for refund processing directly to PG and updates on offline tracker" vertex="1">
+          <mxGeometry height="75.25" width="287" x="3536" y="3396.37" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-984" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-985" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-982">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-985" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Agent takes the details offline from customer" vertex="1">
+          <mxGeometry height="47.36" width="141" x="3366" y="3529.46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
