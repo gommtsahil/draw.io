@@ -871,6 +871,11 @@
         <mxCell id="ZFAiLFIxvx42LF4jJzRo-13" edge="1" parent="1" source="ZFAiLFIxvx42LF4jJzRo-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ZFAiLFIxvx42LF4jJzRo-12" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ZFAiLFIxvx42LF4jJzRo-22" connectable="0" parent="ZFAiLFIxvx42LF4jJzRo-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Both in Parallel" vertex="1">
+          <mxGeometry relative="1" x="-0.6812" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ZFAiLFIxvx42LF4jJzRo-8" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fontStyle=1;labelBackgroundColor=none;" value="If Customer Support Agent Raise Cancel Request.&amp;nbsp;&lt;br&gt;Eg - stuck case" vertex="1">
           <mxGeometry height="60" width="164" x="463.5" y="925" as="geometry" />
         </mxCell>
