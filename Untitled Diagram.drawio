@@ -261,8 +261,8 @@
         <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-571" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Pending State from PG&lt;br&gt;PG Retruns a max TAT to retry refund initiation" vertex="1">
           <mxGeometry height="55.24" width="155" x="876" y="276" as="geometry" />
         </mxCell>
-        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-572" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-573" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;dashed=1;" target="rFCxNX9g6ij4Qk1cN0Ap-705" value="Success">
-          <mxGeometry relative="1" x="-0.5643" as="geometry">
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-572" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-573" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;dashed=1;" target="rFCxNX9g6ij4Qk1cN0Ap-705" value="&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Success&lt;/span&gt;">
+          <mxGeometry relative="1" x="-0.8892" y="-1" as="geometry">
             <mxPoint as="offset" />
             <Array as="points">
               <mxPoint x="780" y="421" />
@@ -272,10 +272,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-573" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Output of hit?" vertex="1">
-          <mxGeometry height="77" width="80" x="913.5" y="383" as="geometry" />
-        </mxCell>
-        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-574" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-573" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.139;entryY=1.014;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-507" value="Failure">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry height="77" width="90" x="908.5" y="379" as="geometry" />
         </mxCell>
         <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-575" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-576" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-526">
           <mxGeometry relative="1" as="geometry">
@@ -357,14 +354,8 @@
         <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-596" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Mark as BY PASS RRN &lt;b&gt;[0.13%]&lt;/b&gt;" vertex="1">
           <mxGeometry height="48" width="120" x="1193" y="411" as="geometry" />
         </mxCell>
-        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-597" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-598" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-599" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-598" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Pending State from PG&lt;br&gt;PG Retruns a max TAT to retry refund initiation" vertex="1">
           <mxGeometry height="55.24" width="155" x="876" y="276" as="geometry" />
-        </mxCell>
-        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-599" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Output of hit?" vertex="1">
-          <mxGeometry height="77" width="80" x="913.5" y="383" as="geometry" />
         </mxCell>
         <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-600" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-603" value="Fail">
           <mxGeometry relative="1" as="geometry">
@@ -695,17 +686,14 @@
         <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-691" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Payments check if the booking is older than 6 months or not?" vertex="1">
           <mxGeometry height="60" width="144.5" x="473.75" y="315" as="geometry" />
         </mxCell>
-        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-692" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-693" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-695" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-693" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Pending State from PG&lt;br&gt;PG Retruns a max TAT to retry refund initiation" vertex="1">
           <mxGeometry height="55.24" width="155" x="876" y="276" as="geometry" />
         </mxCell>
-        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-695" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Output of hit?" vertex="1">
-          <mxGeometry height="77" width="80" x="913.5" y="383" as="geometry" />
-        </mxCell>
-        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-696" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-695" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.139;entryY=1.014;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-629" value="Failure">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-696" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-573" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.139;entryY=1.014;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-629" value="&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Failure&lt;/span&gt;">
+          <mxGeometry relative="1" x="-0.7077" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="1059.9999999999998" y="451.5" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-697" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-698" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-648">
           <mxGeometry relative="1" as="geometry">
@@ -787,14 +775,8 @@
         <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-718" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Mark as BY PASS RRN &lt;b&gt;[0.13%]&lt;/b&gt;" vertex="1">
           <mxGeometry height="48" width="120" x="1193" y="411" as="geometry" />
         </mxCell>
-        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-719" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-720" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-721" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-720" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Pending State from PG&lt;br&gt;PG Retruns a max TAT to retry refund initiation" vertex="1">
           <mxGeometry height="55.24" width="155" x="876" y="276" as="geometry" />
-        </mxCell>
-        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-721" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Output of hit?" vertex="1">
-          <mxGeometry height="77" width="80" x="913.5" y="383" as="geometry" />
         </mxCell>
         <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-722" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-725" value="Fail">
           <mxGeometry relative="1" as="geometry">
