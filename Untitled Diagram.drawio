@@ -920,6 +920,11 @@
         <mxCell id="ZFAiLFIxvx42LF4jJzRo-20" edge="1" parent="1" source="ZFAiLFIxvx42LF4jJzRo-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ZFAiLFIxvx42LF4jJzRo-19" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ZFAiLFIxvx42LF4jJzRo-21" connectable="0" parent="ZFAiLFIxvx42LF4jJzRo-20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="True" vertex="1">
+          <mxGeometry relative="1" x="0.1455" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ZFAiLFIxvx42LF4jJzRo-14" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fontStyle=1;labelBackgroundColor=none;" value="Finance will check if Loss = Refund Amount as per MOJO" vertex="1">
           <mxGeometry height="64" width="140" x="550" y="1160" as="geometry" />
         </mxCell>
