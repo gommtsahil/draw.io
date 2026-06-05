@@ -261,12 +261,13 @@
         <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-571" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Pending State from PG&lt;br&gt;PG Retruns a max TAT to retry refund initiation" vertex="1">
           <mxGeometry height="55.24" width="155" x="876" y="276" as="geometry" />
         </mxCell>
-        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-572" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-573" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-502" value="Success">
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-572" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-573" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;dashed=1;" target="rFCxNX9g6ij4Qk1cN0Ap-705" value="Success">
           <mxGeometry relative="1" x="-0.5643" as="geometry">
             <mxPoint as="offset" />
             <Array as="points">
-              <mxPoint x="825" y="421" />
-              <mxPoint x="825" y="164" />
+              <mxPoint x="780" y="421" />
+              <mxPoint x="780" y="110" />
+              <mxPoint x="900" y="110" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -699,15 +700,6 @@
         </mxCell>
         <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-693" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Pending State from PG&lt;br&gt;PG Retruns a max TAT to retry refund initiation" vertex="1">
           <mxGeometry height="55.24" width="155" x="876" y="276" as="geometry" />
-        </mxCell>
-        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-694" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-695" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-624" value="Success">
-          <mxGeometry relative="1" x="-0.5643" as="geometry">
-            <mxPoint as="offset" />
-            <Array as="points">
-              <mxPoint x="825" y="421" />
-              <mxPoint x="825" y="164" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-695" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Output of hit?" vertex="1">
           <mxGeometry height="77" width="80" x="913.5" y="383" as="geometry" />
