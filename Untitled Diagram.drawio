@@ -903,8 +903,14 @@
         <mxCell id="ZFAiLFIxvx42LF4jJzRo-19" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fontStyle=1;labelBackgroundColor=none;" value="&lt;div&gt;WTD Form Triggered&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="670.5" y="1306" as="geometry" />
         </mxCell>
-        <mxCell id="ZFAiLFIxvx42LF4jJzRo-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#B09500;fillColor=#e3c800;align=center;verticalAlign=middle;rounded=0;fontColor=#000000;" value="What if Refund = Loss then auto WTD" vertex="1">
+        <mxCell id="ZFAiLFIxvx42LF4jJzRo-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#B09500;fillColor=#e3c800;align=center;verticalAlign=middle;rounded=0;fontColor=#000000;" value="What if Refund = Loss then auto direct refund in same PG additional amount" vertex="1">
           <mxGeometry height="43" width="200" x="700" y="1074.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFAiLFIxvx42LF4jJzRo-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#B09500;fillColor=#e3c800;align=center;verticalAlign=middle;rounded=0;fontColor=#000000;" value="What if we give additional amount in same paymode" vertex="1">
+          <mxGeometry height="43" width="200" x="760" y="1240.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFAiLFIxvx42LF4jJzRo-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#B09500;fillColor=#e3c800;align=center;verticalAlign=middle;rounded=0;fontColor=#000000;" value="&lt;b&gt;Do PG support is big question&lt;/b&gt;" vertex="1">
+          <mxGeometry height="43" width="200" x="960" y="1160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
