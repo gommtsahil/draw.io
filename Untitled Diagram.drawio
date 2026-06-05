@@ -883,7 +883,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZFAiLFIxvx42LF4jJzRo-4" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fontStyle=1;labelBackgroundColor=none;" value="Customer Raise Cancel Request" vertex="1">
-          <mxGeometry height="60" width="164" x="463.5" y="-240" as="geometry" />
+          <mxGeometry height="60" width="164" x="463.5" y="-180" as="geometry" />
         </mxCell>
         <mxCell id="ZFAiLFIxvx42LF4jJzRo-6" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Wallet Reversal to Account" vertex="1">
           <mxGeometry height="60" width="120" x="1359" y="826.5" as="geometry" />
