@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="CBOM3psCTSgxObAulMTF">
-    <mxGraphModel dx="1768" dy="2099" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="815" dy="1646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -557,7 +557,7 @@
         <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-652" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-653" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-655" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-653" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Mydesk Task gets craeted&lt;br&gt;We wait for customer to fill the details" vertex="1">
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-653" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Mydesk Task gets created&lt;br&gt;We wait for customer to fill the details" vertex="1">
           <mxGeometry height="60" width="172" x="2969.25" y="613.14" as="geometry" />
         </mxCell>
         <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-654" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-655" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-657" value="No">
@@ -879,18 +879,6 @@
         <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-741" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Agent takes the details offline from customer" vertex="1">
           <mxGeometry height="47.36" width="141" x="3330" y="723.46" as="geometry" />
         </mxCell>
-        <mxCell id="ZFAiLFIxvx42LF4jJzRo-3" edge="1" parent="1" source="ZFAiLFIxvx42LF4jJzRo-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="rFCxNX9g6ij4Qk1cN0Ap-621" value="">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="760" y="-130" />
-              <mxPoint x="546" y="-130" />
-            </Array>
-            <mxPoint x="694.5" y="48" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZFAiLFIxvx42LF4jJzRo-1" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fontStyle=1;labelBackgroundColor=none;" value="If Customer Support Agent Raise Cancel Request.&amp;nbsp;&lt;br&gt;Eg - stuck case" vertex="1">
-          <mxGeometry height="60" width="164" x="686" y="-240" as="geometry" />
-        </mxCell>
         <mxCell id="ZFAiLFIxvx42LF4jJzRo-5" edge="1" parent="1" source="ZFAiLFIxvx42LF4jJzRo-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="rFCxNX9g6ij4Qk1cN0Ap-621" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -899,6 +887,47 @@
         </mxCell>
         <mxCell id="ZFAiLFIxvx42LF4jJzRo-6" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Wallet Reversal to Account" vertex="1">
           <mxGeometry height="60" width="120" x="1359" y="826.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFAiLFIxvx42LF4jJzRo-10" edge="1" parent="1" source="ZFAiLFIxvx42LF4jJzRo-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ZFAiLFIxvx42LF4jJzRo-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFAiLFIxvx42LF4jJzRo-11" edge="1" parent="1" source="ZFAiLFIxvx42LF4jJzRo-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ZFAiLFIxvx42LF4jJzRo-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFAiLFIxvx42LF4jJzRo-13" edge="1" parent="1" source="ZFAiLFIxvx42LF4jJzRo-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ZFAiLFIxvx42LF4jJzRo-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFAiLFIxvx42LF4jJzRo-8" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fontStyle=1;labelBackgroundColor=none;" value="If Customer Support Agent Raise Cancel Request.&amp;nbsp;&lt;br&gt;Eg - stuck case" vertex="1">
+          <mxGeometry height="60" width="164" x="463.5" y="925" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFAiLFIxvx42LF4jJzRo-9" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fontStyle=1;labelBackgroundColor=none;" value="Original Amount is returned through PG" vertex="1">
+          <mxGeometry height="60" width="120" x="410" y="1066" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFAiLFIxvx42LF4jJzRo-15" edge="1" parent="1" source="ZFAiLFIxvx42LF4jJzRo-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ZFAiLFIxvx42LF4jJzRo-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFAiLFIxvx42LF4jJzRo-12" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fontStyle=1;labelBackgroundColor=none;" value="Loss / Claim Maker Checker" vertex="1">
+          <mxGeometry height="60" width="120" x="560" y="1066" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFAiLFIxvx42LF4jJzRo-17" edge="1" parent="1" source="ZFAiLFIxvx42LF4jJzRo-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ZFAiLFIxvx42LF4jJzRo-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFAiLFIxvx42LF4jJzRo-18" connectable="0" parent="ZFAiLFIxvx42LF4jJzRo-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="False" vertex="1">
+          <mxGeometry relative="1" x="0.3337" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZFAiLFIxvx42LF4jJzRo-20" edge="1" parent="1" source="ZFAiLFIxvx42LF4jJzRo-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ZFAiLFIxvx42LF4jJzRo-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFAiLFIxvx42LF4jJzRo-14" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fontStyle=1;labelBackgroundColor=none;" value="Finance will check if Loss = Refund Amount as per MOJO" vertex="1">
+          <mxGeometry height="64" width="140" x="550" y="1160" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFAiLFIxvx42LF4jJzRo-16" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fontStyle=1;labelBackgroundColor=none;" value="BY PASS RRN&amp;nbsp;&lt;br&gt;Request Closed No Refund" vertex="1">
+          <mxGeometry height="60" width="120" x="440" y="1306" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFAiLFIxvx42LF4jJzRo-19" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fontStyle=1;labelBackgroundColor=none;" value="&lt;div&gt;WTD Form Triggered&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="670.5" y="1306" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
