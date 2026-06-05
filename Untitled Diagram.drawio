@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="CBOM3psCTSgxObAulMTF">
-    <mxGraphModel dx="815" dy="1646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="968" dy="1749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -162,7 +162,7 @@
             <mxPoint x="1620.5" y="347.86" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-543" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-544" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-552" value="Fail for Refund">
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-543" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-544" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-552" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-544" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Finance validation?" vertex="1">
@@ -582,14 +582,16 @@
         <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-663" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Pendency" vertex="1">
           <mxGeometry height="35" width="120" x="3481" y="508.5" as="geometry" />
         </mxCell>
-        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-664" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-666" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-669" value="Pass for refund &lt;b&gt;[0.04%]&lt;/b&gt;">
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-664" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-666" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-669" value="&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Pass for refund &lt;b&gt;[0.04%]&lt;/b&gt;&lt;/span&gt;">
           <mxGeometry relative="1" x="-0.1885" y="25" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="1620.5" y="347.86" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-665" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-666" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-674" value="Fail for Refund">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-665" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-666" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-674" value="&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Fail for Refund&lt;/span&gt;">
+          <mxGeometry relative="1" x="0.4727" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-666" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Finance validation?" vertex="1">
           <mxGeometry height="80" width="80" x="1345.5" y="308" as="geometry" />
@@ -687,9 +689,12 @@
         <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-693" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" value="Pending State from PG&lt;br&gt;PG Retruns a max TAT to retry refund initiation" vertex="1">
           <mxGeometry height="55.24" width="155" x="876" y="276" as="geometry" />
         </mxCell>
-        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-696" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-573" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.139;entryY=1.014;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-629" value="&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Failure&lt;/span&gt;">
+        <mxCell id="rFCxNX9g6ij4Qk1cN0Ap-696" edge="1" parent="1" source="rFCxNX9g6ij4Qk1cN0Ap-573" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="rFCxNX9g6ij4Qk1cN0Ap-629" value="&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Failure&lt;/span&gt;">
           <mxGeometry relative="1" x="-0.7077" as="geometry">
             <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="1128" y="417" />
+            </Array>
             <mxPoint x="1059.9999999999998" y="451.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
