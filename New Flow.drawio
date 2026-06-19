@@ -1,9 +1,58 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="HYXFhdCZsOsAsUOcpNND">
-    <mxGraphModel>
+    <mxGraphModel dx="2514" dy="940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AH6f9zTNmLzOSUv1P6ux-3" edge="1" parent="1" source="AH6f9zTNmLzOSUv1P6ux-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="AH6f9zTNmLzOSUv1P6ux-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AH6f9zTNmLzOSUv1P6ux-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Wtr Will show QR scanner to join table" vertex="1">
+          <mxGeometry height="120" width="120" x="370" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="AH6f9zTNmLzOSUv1P6ux-5" edge="1" parent="1" source="AH6f9zTNmLzOSUv1P6ux-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="AH6f9zTNmLzOSUv1P6ux-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AH6f9zTNmLzOSUv1P6ux-8" edge="1" parent="1" source="AH6f9zTNmLzOSUv1P6ux-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="AH6f9zTNmLzOSUv1P6ux-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AH6f9zTNmLzOSUv1P6ux-2" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;div&gt;Custmrs can scan and enter phone number post validation&amp;nbsp;&lt;br&gt;A cart with that phone number will be created&lt;br&gt;Join Table&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="130" x="365" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="AH6f9zTNmLzOSUv1P6ux-7" edge="1" parent="1" source="AH6f9zTNmLzOSUv1P6ux-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="AH6f9zTNmLzOSUv1P6ux-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AH6f9zTNmLzOSUv1P6ux-4" parent="1" style="whiteSpace=wrap;html=1;" value="friends will join the cart by scanning host Qr Code and enter Name" vertex="1">
+          <mxGeometry height="80" width="110" x="375" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="AH6f9zTNmLzOSUv1P6ux-12" edge="1" parent="1" source="AH6f9zTNmLzOSUv1P6ux-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="AH6f9zTNmLzOSUv1P6ux-11" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="840" />
+              <mxPoint x="180" y="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AH6f9zTNmLzOSUv1P6ux-14" edge="1" parent="1" source="AH6f9zTNmLzOSUv1P6ux-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="AH6f9zTNmLzOSUv1P6ux-6" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="650" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AH6f9zTNmLzOSUv1P6ux-6" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;Menu Will Apper&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="AH6f9zTNmLzOSUv1P6ux-11" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;Menu Will Apper&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="100" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="AH6f9zTNmLzOSUv1P6ux-15" edge="1" parent="1" source="AH6f9zTNmLzOSUv1P6ux-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="AH6f9zTNmLzOSUv1P6ux-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AH6f9zTNmLzOSUv1P6ux-13" parent="1" style="whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" value="Bar Mmgt DB" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="AH6f9zTNmLzOSUv1P6ux-16" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" value="&lt;div&gt;1. Table Available Data&lt;/div&gt;&lt;div&gt;1.1 Table Current Status ( Avl / Ocup )&lt;/div&gt;&lt;div&gt;1.2 Cart within Table&lt;br&gt;&lt;br&gt;2. Waiters&lt;br&gt;( phone number , name , status )&amp;nbsp;&lt;br&gt;EC - waiter should not effect business after leaving )&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150" width="270" x="-35" y="150" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
