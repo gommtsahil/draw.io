@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="lYyIBj8O2xEgFBH7YMza">
-    <mxGraphModel dx="2446" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2332" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,7 +61,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eCaBEhYJKfaXkcof3wJd-8" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;align=left;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="&lt;div align=&quot;left&quot;&gt;(1) If you used a different mobile number while making the booking&lt;br&gt;(2) Else&lt;/div&gt;" vertex="1">
-          <mxGeometry height="43" width="380" x="470" y="282.5" as="geometry" />
+          <mxGeometry height="43" width="380" x="477" y="282.5" as="geometry" />
         </mxCell>
         <mxCell id="eCaBEhYJKfaXkcof3wJd-48" edge="1" parent="1" source="eCaBEhYJKfaXkcof3wJd-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;curved=0;" target="eCaBEhYJKfaXkcof3wJd-44">
           <mxGeometry relative="1" x="-0.0185" as="geometry">
