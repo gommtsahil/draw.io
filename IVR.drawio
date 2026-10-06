@@ -115,7 +115,7 @@
         <mxCell id="eCaBEhYJKfaXkcof3wJd-127" edge="1" parent="1" source="eCaBEhYJKfaXkcof3wJd-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="eCaBEhYJKfaXkcof3wJd-112">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eCaBEhYJKfaXkcof3wJd-130" connectable="0" parent="eCaBEhYJKfaXkcof3wJd-127" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Invalid OTP Retry * 2" vertex="1">
+        <mxCell id="eCaBEhYJKfaXkcof3wJd-130" connectable="0" parent="eCaBEhYJKfaXkcof3wJd-127" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Incorrect OTP Retry * 2" vertex="1">
           <mxGeometry relative="1" x="-0.2148" y="2" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -127,6 +127,11 @@
               <mxPoint x="177.5" y="240" />
             </Array>
             <mxPoint x="1780" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eCaBEhYJKfaXkcof3wJd-139" connectable="0" parent="eCaBEhYJKfaXkcof3wJd-131" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Correct OTP Verfied" vertex="1">
+          <mxGeometry relative="1" x="-0.9664" y="-3" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eCaBEhYJKfaXkcof3wJd-35" parent="1" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=1;roundedPerimeter=1;" value="&lt;span class=&quot;edge-part&quot; style=&quot;--press-color:#64748b&quot;&gt;&lt;strong&gt;Press OTP6DIGIT &lt;/strong&gt;&lt;/span&gt;" vertex="1">
@@ -240,8 +245,8 @@
         <mxCell id="eCaBEhYJKfaXkcof3wJd-128" edge="1" parent="1" source="eCaBEhYJKfaXkcof3wJd-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="eCaBEhYJKfaXkcof3wJd-35">
           <mxGeometry relative="1" x="-0.5374" as="geometry">
             <Array as="points">
-              <mxPoint x="1990" y="420" />
-              <mxPoint x="1990" y="304" />
+              <mxPoint x="1910" y="420" />
+              <mxPoint x="1910" y="304" />
             </Array>
           </mxGeometry>
         </mxCell>
