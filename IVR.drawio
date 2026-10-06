@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="lYyIBj8O2xEgFBH7YMza">
-    <mxGraphModel dx="3831" dy="1665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1520" dy="440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,8 +19,18 @@
         <mxCell id="eCaBEhYJKfaXkcof3wJd-12" edge="1" parent="1" source="eCaBEhYJKfaXkcof3wJd-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eCaBEhYJKfaXkcof3wJd-11" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="eCaBEhYJKfaXkcof3wJd-168" connectable="0" parent="eCaBEhYJKfaXkcof3wJd-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="BKG &amp;gt;= 1" vertex="1">
+          <mxGeometry relative="1" x="0.0851" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="eCaBEhYJKfaXkcof3wJd-45" edge="1" parent="1" source="eCaBEhYJKfaXkcof3wJd-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eCaBEhYJKfaXkcof3wJd-44" value="">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eCaBEhYJKfaXkcof3wJd-169" connectable="0" parent="eCaBEhYJKfaXkcof3wJd-45" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
+          <mxGeometry relative="1" x="-0.513" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="eCaBEhYJKfaXkcof3wJd-6" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" value="Check If have Bookings for UUID" vertex="1">
           <mxGeometry height="60" width="120" x="87.5" y="274" as="geometry" />
@@ -35,6 +45,11 @@
         <mxCell id="eCaBEhYJKfaXkcof3wJd-62" connectable="0" parent="eCaBEhYJKfaXkcof3wJd-61" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" value="2" vertex="1">
           <mxGeometry relative="1" x="-0.8548" y="2" as="geometry">
             <mxPoint x="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eCaBEhYJKfaXkcof3wJd-170" connectable="0" parent="eCaBEhYJKfaXkcof3wJd-61" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;nbsp;IVR will start with option 5&amp;nbsp;" vertex="1">
+          <mxGeometry relative="1" x="0.3285" as="geometry">
+            <mxPoint x="15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eCaBEhYJKfaXkcof3wJd-133" edge="1" parent="1" source="eCaBEhYJKfaXkcof3wJd-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.283;entryDx=0;entryDy=0;" target="eCaBEhYJKfaXkcof3wJd-78">
@@ -344,6 +359,9 @@
         </mxCell>
         <mxCell id="eCaBEhYJKfaXkcof3wJd-163" parent="1" style="whiteSpace=wrap;html=1;align=center;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=1;roundedPerimeter=1;" value="Press CARD6DIGIT" vertex="1">
           <mxGeometry height="45" width="150" x="-390" y="807.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eCaBEhYJKfaXkcof3wJd-171" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;div align=&quot;left&quot;&gt;Note :&amp;nbsp;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;1. Ensure to Pull Failed Bookings and show that in Predicted Bookings as well as in Main Booking List&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="280" x="-280" y="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
