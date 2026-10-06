@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="lYyIBj8O2xEgFBH7YMza">
-    <mxGraphModel dx="1414" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2049" dy="1158" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -33,9 +33,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eCaBEhYJKfaXkcof3wJd-60" edge="1" parent="1" source="eCaBEhYJKfaXkcof3wJd-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="eCaBEhYJKfaXkcof3wJd-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="eCaBEhYJKfaXkcof3wJd-61" edge="1" parent="1" source="eCaBEhYJKfaXkcof3wJd-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="eCaBEhYJKfaXkcof3wJd-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -48,7 +45,7 @@
             <mxPoint x="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eCaBEhYJKfaXkcof3wJd-8" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;align=left;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="&lt;div align=&quot;left&quot;&gt;(1) If you are calling to validate OTP sent to your alternate number&lt;br&gt;(2) Else&lt;/div&gt;" vertex="1">
+        <mxCell id="eCaBEhYJKfaXkcof3wJd-8" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;align=left;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="&lt;div align=&quot;left&quot;&gt;(1) If you used a different mobile number while making the booking&lt;br&gt;(2) Else&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="380" x="540" y="274" as="geometry" />
         </mxCell>
         <mxCell id="eCaBEhYJKfaXkcof3wJd-48" edge="1" parent="1" source="eCaBEhYJKfaXkcof3wJd-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eCaBEhYJKfaXkcof3wJd-44">
@@ -102,7 +99,7 @@
         <mxCell id="eCaBEhYJKfaXkcof3wJd-36" edge="1" parent="1" source="eCaBEhYJKfaXkcof3wJd-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eCaBEhYJKfaXkcof3wJd-35" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eCaBEhYJKfaXkcof3wJd-18" parent="1" style="whiteSpace=wrap;html=1;align=center;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;rounded=1;roundedPerimeter=1;" value="&lt;div align=&quot;center&quot;&gt;&amp;nbsp;Send OTP Again&amp;nbsp;&lt;br&gt;If possible same OTP as Before&lt;/div&gt;" vertex="1">
+        <mxCell id="eCaBEhYJKfaXkcof3wJd-18" parent="1" style="whiteSpace=wrap;html=1;align=center;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;rounded=1;roundedPerimeter=1;" value="&lt;div align=&quot;center&quot;&gt;&amp;nbsp;Send OTP&amp;nbsp;&lt;br&gt;If possible same OTP as Before for 1 Day&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="170" x="1215.5" y="274" as="geometry" />
         </mxCell>
         <mxCell id="eCaBEhYJKfaXkcof3wJd-29" edge="1" parent="1" source="eCaBEhYJKfaXkcof3wJd-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="eCaBEhYJKfaXkcof3wJd-35">
@@ -146,7 +143,17 @@
         <mxCell id="eCaBEhYJKfaXkcof3wJd-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" value="&lt;b&gt;Check Conditions&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="240" x="320" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="eCaBEhYJKfaXkcof3wJd-57" parent="1" style="whiteSpace=wrap;html=1;align=left;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=1;roundedPerimeter=1;" value="" vertex="1">
+        <mxCell id="eCaBEhYJKfaXkcof3wJd-63" edge="1" parent="1" source="eCaBEhYJKfaXkcof3wJd-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1080" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eCaBEhYJKfaXkcof3wJd-64" connectable="0" parent="eCaBEhYJKfaXkcof3wJd-63" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;1&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.4916" y="1" as="geometry">
+            <mxPoint x="-28" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eCaBEhYJKfaXkcof3wJd-57" parent="1" style="whiteSpace=wrap;html=1;align=left;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=1;roundedPerimeter=1;" value="(1) If you want to enter the last 4 digits of the booking ID&lt;br&gt;(2) If you used a different mobile number while making the booking" vertex="1">
           <mxGeometry height="100" width="240" x="268.75" y="660" as="geometry" />
         </mxCell>
       </root>
