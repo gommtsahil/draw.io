@@ -28,9 +28,24 @@
         <mxCell id="eCaBEhYJKfaXkcof3wJd-41" edge="1" parent="1" source="eCaBEhYJKfaXkcof3wJd-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eCaBEhYJKfaXkcof3wJd-40" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eCaBEhYJKfaXkcof3wJd-43" connectable="0" parent="eCaBEhYJKfaXkcof3wJd-41" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;nbsp;1&amp;nbsp;" vertex="1">
+        <mxCell id="eCaBEhYJKfaXkcof3wJd-43" connectable="0" parent="eCaBEhYJKfaXkcof3wJd-41" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" value="&amp;nbsp;1&amp;nbsp;" vertex="1">
           <mxGeometry relative="1" x="-0.04" y="2" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eCaBEhYJKfaXkcof3wJd-60" edge="1" parent="1" source="eCaBEhYJKfaXkcof3wJd-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="eCaBEhYJKfaXkcof3wJd-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eCaBEhYJKfaXkcof3wJd-61" edge="1" parent="1" source="eCaBEhYJKfaXkcof3wJd-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="eCaBEhYJKfaXkcof3wJd-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eCaBEhYJKfaXkcof3wJd-62" connectable="0" parent="eCaBEhYJKfaXkcof3wJd-61" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" value="2" vertex="1">
+          <mxGeometry relative="1" x="-0.8548" y="2" as="geometry">
+            <mxPoint x="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eCaBEhYJKfaXkcof3wJd-8" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;align=left;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="&lt;div align=&quot;left&quot;&gt;(1) If you are calling to validate OTP sent to your alternate number&lt;br&gt;(2) Else&lt;/div&gt;" vertex="1">
@@ -44,14 +59,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eCaBEhYJKfaXkcof3wJd-52" connectable="0" parent="eCaBEhYJKfaXkcof3wJd-48" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;nbsp;4&amp;nbsp;" vertex="1">
-          <mxGeometry relative="1" x="-0.2771" y="2" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="eCaBEhYJKfaXkcof3wJd-53" connectable="0" parent="eCaBEhYJKfaXkcof3wJd-48" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No Valid Bookings For This Number" vertex="1">
           <mxGeometry relative="1" x="0.4431" y="4" as="geometry">
             <mxPoint x="4" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eCaBEhYJKfaXkcof3wJd-58" edge="1" parent="1" source="eCaBEhYJKfaXkcof3wJd-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eCaBEhYJKfaXkcof3wJd-57" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eCaBEhYJKfaXkcof3wJd-59" connectable="0" parent="eCaBEhYJKfaXkcof3wJd-58" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" value="&amp;nbsp;4&amp;nbsp;" vertex="1">
+          <mxGeometry relative="1" x="-0.0041" as="geometry">
+            <mxPoint x="1" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eCaBEhYJKfaXkcof3wJd-11" parent="1" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=1;roundedPerimeter=1;align=left;" value="(1) Predicted Top 3 Bookings&lt;br&gt;(2) Predicted Top 3 Bookings&lt;br&gt;(3) Predicted Top 3 Bookings&lt;br&gt;(4) For existing booking related queries&lt;br&gt;(5) To make a new booking&lt;br&gt;(6)&amp;nbsp; For Gift Card related queries&lt;br&gt;(7)&amp;nbsp; For queries about the Make my trip I C I C I Card" vertex="1">
@@ -59,7 +77,7 @@
         </mxCell>
         <mxCell id="eCaBEhYJKfaXkcof3wJd-21" edge="1" parent="1" source="eCaBEhYJKfaXkcof3wJd-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="eCaBEhYJKfaXkcof3wJd-20" value="">
           <mxGeometry relative="1" x="0.1579" as="geometry">
-            <mxPoint x="1920" y="271" as="sourcePoint" />
+            <mxPoint x="1650" y="271" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eCaBEhYJKfaXkcof3wJd-23" connectable="0" parent="eCaBEhYJKfaXkcof3wJd-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;nbsp;Wrong OTP&amp;nbsp;" vertex="1">
@@ -70,7 +88,7 @@
         <mxCell id="eCaBEhYJKfaXkcof3wJd-24" edge="1" parent="1" source="eCaBEhYJKfaXkcof3wJd-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="eCaBEhYJKfaXkcof3wJd-11">
           <mxGeometry relative="1" x="-0.8142" as="geometry">
             <Array as="points">
-              <mxPoint x="1770" y="460" />
+              <mxPoint x="1500" y="460" />
             </Array>
             <mxPoint x="1050" y="370" as="sourcePoint" />
             <mxPoint x="430" y="550" as="targetPoint" />
@@ -85,15 +103,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eCaBEhYJKfaXkcof3wJd-18" parent="1" style="whiteSpace=wrap;html=1;align=center;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;rounded=1;roundedPerimeter=1;" value="&lt;div align=&quot;center&quot;&gt;&amp;nbsp;Send OTP Again&amp;nbsp;&lt;br&gt;If possible same OTP as Before&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="170" x="1485.5" y="274" as="geometry" />
+          <mxGeometry height="60" width="170" x="1215.5" y="274" as="geometry" />
         </mxCell>
         <mxCell id="eCaBEhYJKfaXkcof3wJd-29" edge="1" parent="1" source="eCaBEhYJKfaXkcof3wJd-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="eCaBEhYJKfaXkcof3wJd-35">
           <mxGeometry relative="1" x="0.272" as="geometry">
             <Array as="points">
-              <mxPoint x="2037.5" y="190" />
-              <mxPoint x="1770" y="190" />
+              <mxPoint x="1767.5" y="190" />
+              <mxPoint x="1500" y="190" />
             </Array>
-            <mxPoint x="1405.5" y="264" as="targetPoint" />
+            <mxPoint x="1135.5" y="264" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eCaBEhYJKfaXkcof3wJd-30" connectable="0" parent="eCaBEhYJKfaXkcof3wJd-29" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;nbsp;Retry * 2&amp;nbsp;" vertex="1">
@@ -102,16 +120,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eCaBEhYJKfaXkcof3wJd-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;align=center;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;rounded=1;roundedPerimeter=1;" value="&lt;strong class=&quot;node-name&quot;&gt;Prompt-invalidOTP_announcer&lt;br&gt;&lt;/strong&gt;You seem to have entered wrong O T P. Please try again.&lt;br&gt;&lt;b&gt;&lt;br&gt;Post&lt;/b&gt;&lt;br&gt;&lt;strong class=&quot;node-name&quot;&gt;2 incorrect Retry&lt;br&gt;Disconnect&lt;/strong&gt;" vertex="1">
-          <mxGeometry height="140" width="195" x="1940" y="230" as="geometry" />
+          <mxGeometry height="140" width="195" x="1670" y="230" as="geometry" />
         </mxCell>
         <mxCell id="eCaBEhYJKfaXkcof3wJd-35" parent="1" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=1;roundedPerimeter=1;" value="&lt;span class=&quot;edge-part&quot; style=&quot;--press-color:#64748b&quot;&gt;&lt;strong&gt;Press OTP6DIGIT &lt;/strong&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="1710" y="274" as="geometry" />
+          <mxGeometry height="60" width="120" x="1440" y="274" as="geometry" />
         </mxCell>
         <mxCell id="eCaBEhYJKfaXkcof3wJd-42" edge="1" parent="1" source="eCaBEhYJKfaXkcof3wJd-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="eCaBEhYJKfaXkcof3wJd-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eCaBEhYJKfaXkcof3wJd-40" parent="1" style="whiteSpace=wrap;html=1;align=center;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=1;roundedPerimeter=1;" value="Press MOBNO10DIGIT" vertex="1">
-          <mxGeometry height="60" width="150" x="1270" y="274" as="geometry" />
+          <mxGeometry height="60" width="150" x="1000" y="274" as="geometry" />
         </mxCell>
         <mxCell id="eCaBEhYJKfaXkcof3wJd-47" edge="1" parent="1" source="eCaBEhYJKfaXkcof3wJd-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="eCaBEhYJKfaXkcof3wJd-8">
           <mxGeometry relative="1" as="geometry" />
@@ -127,6 +145,9 @@
         </mxCell>
         <mxCell id="eCaBEhYJKfaXkcof3wJd-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" value="&lt;b&gt;Check Conditions&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="240" x="320" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="eCaBEhYJKfaXkcof3wJd-57" parent="1" style="whiteSpace=wrap;html=1;align=left;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=1;roundedPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="100" width="240" x="268.75" y="660" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
