@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="lYyIBj8O2xEgFBH7YMza">
-    <mxGraphModel dx="2734" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2095" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -361,11 +361,8 @@
         <mxCell id="eCaBEhYJKfaXkcof3wJd-163" parent="1" style="whiteSpace=wrap;html=1;align=center;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=1;roundedPerimeter=1;" value="Press CARD6DIGIT" vertex="1">
           <mxGeometry height="45" width="150" x="-390" y="807.5" as="geometry" />
         </mxCell>
-        <mxCell id="eCaBEhYJKfaXkcof3wJd-171" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;div align=&quot;left&quot;&gt;Note :&amp;nbsp;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;1. Ensure to Pull Failed Bookings and show that in Predicted Bookings as well as in Main Booking List&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="280" x="-300" y="140" as="geometry" />
-        </mxCell>
-        <mxCell id="eCaBEhYJKfaXkcof3wJd-175" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;div align=&quot;left&quot;&gt;Note :&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. We would need to Call GC and ICICI API ( when user clicks 6 or 7 ideally OR when user reaches IVR stage)&amp;nbsp;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="90" width="280" x="-300" y="400" as="geometry" />
+        <mxCell id="eCaBEhYJKfaXkcof3wJd-171" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;div align=&quot;left&quot;&gt;Note :&amp;nbsp;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;1. Ensure to Pull Failed Bookings and show that in Predicted Bookings as well as in Main Booking List&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. We would need to Call GC and ICICI API ( when user clicks 6 or 7 ideally OR when user reaches IVR stage)&amp;nbsp;&lt;br&gt;&lt;br&gt;3. Should we store user details like how many times user called in Last 1 Hr and Last 36 Hrs and Pass to Lob so that they can predict transfer to Agent or Bot with duration in each call&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="350" x="-360" y="360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
