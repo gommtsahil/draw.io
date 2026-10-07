@@ -130,7 +130,7 @@
             <mxPoint y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eCaBEhYJKfaXkcof3wJd-11" parent="1" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=1;roundedPerimeter=1;align=left;" value="(1) Predicted Top 3 Bookings&lt;br&gt;(2) Predicted Top 3 Bookings&lt;br&gt;(3) Predicted Top 3 Bookings&lt;br&gt;(4) For existing booking related queries&lt;br&gt;(5) To make a new booking&lt;br&gt;(6)&amp;nbsp; For Gift Card related queries&lt;br&gt;(7)&amp;nbsp; For queries about the Make my trip I C I C I Card" vertex="1">
+        <mxCell id="eCaBEhYJKfaXkcof3wJd-11" parent="1" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=1;roundedPerimeter=1;align=left;" value="(1) Predicted Top 3 Bookings&lt;br&gt;(2) Predicted Top 3 Bookings&lt;br&gt;(3) Predicted Top 3 Bookings&lt;br&gt;(4) For other existing booking related queries&lt;br&gt;(5) To make a new booking&lt;br&gt;(6)&amp;nbsp; For Gift Card related queries&lt;br&gt;(7)&amp;nbsp; For queries about the Make my trip I C I C I Card" vertex="1">
           <mxGeometry height="120" width="295" y="400" as="geometry" />
         </mxCell>
         <mxCell id="eCaBEhYJKfaXkcof3wJd-108" edge="1" parent="1" source="eCaBEhYJKfaXkcof3wJd-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="eCaBEhYJKfaXkcof3wJd-104">
